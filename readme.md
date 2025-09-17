@@ -13,13 +13,11 @@ In this repository we will cover the basics of lua.
 
 ## Installation:
 
-#### Windows
+To install Lua for your specific Operation System follow the below links:
 
-####  Macos
-
-#### Linux
-
-
+1. [Windows](https://github.com/Anirudh-rao/The-Lua-Project/blob/main/resources/How%2Bto%2BInstall%2BLua%2Bon%2BWindows.pdf)
+2. [MacOs](https://github.com/Anirudh-rao/The-Lua-Project/blob/main/resources/How%2Bto%2BInstall%2BLua%2Bon%2BMacOS.pdf)
+3. [Linux](https://github.com/Anirudh-rao/The-Lua-Project/blob/main/resources/How%2Bto%2BInstall%2BLua%2Bon%2BLinux.pdf)
 
 ## Getting Started
 
