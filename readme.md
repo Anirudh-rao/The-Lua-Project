@@ -1,5 +1,27 @@
 # Lua-Project 
 
-This repository covers all the basic concepts related to lua programming . This repo is based on the book [Programming in Lua 4th Edition](https://www.amazon.com/exec/obidos/ASIN/8590379868/lua-pilindex-20).
+In this repository we will cover the basics of lua.
 
-To be updated as we code.
+## Introduction to Lua
+
+1. Lua is lightweight , high-level scriptingg language that was developed in the early 1990's
+
+2. Lua is known for if simplicity , flexibility and extensibility making it a popular choice for various applications.
+
+3. Lua is used in various domains in applications like as a scripting languages in Game Development, Used in Embdedde Systems , Scripting and automations, and now being most used in AI and MLs.
+
+
+## Installation:
+
+#### Windows
+
+####  Macos
+
+#### Linux
+
+
+
+## Getting Started
+
+
+To be Updated soon.
