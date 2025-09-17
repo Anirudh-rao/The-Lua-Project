@@ -22,4 +22,28 @@ To install Lua for your specific Operation System follow the below links:
 ## Getting Started
 
 
+
+## Executing Programs
+
+1. Navigate to this current folder using your terminal.
+
+2. Once in the directory , invoke the `lua` interpretor by typeing `lua` in the terminal.
+
+3. Now to in the same termnial type
+
+```
+
+dofile(<Filename.lua>)
+
+```
+4. This will load the function into the lua interpreter.
+
+5. To use the function type
+
+```
+
+>> factorial(5)
+120
+
+```
 To be Updated soon.
